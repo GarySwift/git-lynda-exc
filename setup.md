@@ -1,4 +1,4 @@
-__…or create a new repository on the command line__
+__Create a new repository on the command line__
 
 echo "# git-lynda-exc" >> README.md
 git init
