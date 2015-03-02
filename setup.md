@@ -4,12 +4,12 @@ echo "# git-lynda-exc" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/GarySwift/git-lynda-exc.git
+git remote add origin [Source](https://github.com/GarySwift/git-lynda-exc.git "Permalink to ")
 git push -u origin master
 ---
 
 **…or push an existing repository from the command line**
-git remote add origin https://github.com/GarySwift/git-lynda-exc.git
+git remote add origin [Source](https://github.com/GarySwift/git-lynda-exc.git "Permalink to ")
 git push -u origin master
 ---
 
