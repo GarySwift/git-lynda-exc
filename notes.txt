@@ -1,0 +1,11 @@
+Looking at hidden files on Unix
+
+	ls -la
+
+or 
+
+	ls -la .git
+
+Git auto-complete url:
+
+	https://github.com/git/git/raw/master/contrib/completion/git-completion.bash 

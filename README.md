@@ -26,3 +26,6 @@ The course shows how to use Git, the popular open-source version control softwar
 
 
 Usefull Notes:
+You can use git config --list, or look at your ~/.gitconfig file. Local config will be in your repository's .git/config file.
+
+git config ---global core.editor "mate wl1"
