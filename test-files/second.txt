@@ -1,5 +1,1 @@
 This is the second file.
-
-Sed libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent blandit laoreet nibh. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Phasellus viverra nulla ut metus varius laoreet.
-
-Donec posuere vulputate arcu. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Curabitur a felis in nunc fringilla tristique. Quisque rutrum.
