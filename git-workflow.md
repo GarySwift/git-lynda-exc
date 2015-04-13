@@ -15,3 +15,14 @@ Maecenas vestibulum mollis diam. In ac felis quis tortor malesuada pretium. In c
 Fusce pharetra convallis urna. Aenean vulputate eleifend tellus. Ut non enim eleifend felis pretium feugiat. Quisque malesuada placerat nisl. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis.
 
 ```git add git-workflow.md && git commit -m "Version B of git-workflow.md" && git push -u origin master```
+
+###This is version C of this file
+Pellentesque posuere. Praesent nonummy mi in odio. Praesent nec nisl a purus blandit viverra. Maecenas ullamcorper, dui et placerat feugiat, eros pede varius nisi, condimentum viverra felis nunc et lorem. Sed hendrerit.
+
+Sed mollis, eros et ultrices tempus, mauris ipsum aliquam libero, non adipiscing dolor urna a orci. Sed aliquam ultrices mauris. Fusce risus nisl, viverra et, tempor et, pretium in, sapien. Nullam vel sem. Donec mollis hendrerit risus.
+
+Etiam rhoncus. Aenean massa. Donec orci lectus, aliquam ut, faucibus non, euismod id, nulla. Suspendisse feugiat. Nulla consequat massa quis enim.
+
+Maecenas malesuada. Duis leo. Praesent ac massa at ligula laoreet iaculis. Aliquam erat volutpat. Vivamus in erat ut urna cursus vestibulum.
+
+```git add git-workflow.md && git commit -m "Version B of git-workflow.md" && git push -u origin master```
