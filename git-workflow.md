@@ -25,4 +25,4 @@ Etiam rhoncus. Aenean massa. Donec orci lectus, aliquam ut, faucibus non, euismo
 
 Maecenas malesuada. Duis leo. Praesent ac massa at ligula laoreet iaculis. Aliquam erat volutpat. Vivamus in erat ut urna cursus vestibulum.
 
-```git add git-workflow.md && git commit -m "Version B of git-workflow.md" && git push -u origin master```
+```git add git-workflow.md && git commit -m "Version C of git-workflow.md" && git push -u origin master```
