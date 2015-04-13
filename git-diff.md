@@ -17,8 +17,10 @@ Show changes between the working tree and the index or a tree, changes between t
 
 __NOTES__
 
-`git diff staged`
+`git diff --staged` If you want to see only changes that have already been added to the Staging Area, "git diff --staged" is your command of choice.
 
 __SOURCE__
 
 <http://git-scm.com/docs/git-diff>
+
+<http://www.git-tower.com/learn/ebook/command-line/advanced-topics/diffs>
