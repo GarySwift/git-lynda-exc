@@ -19,6 +19,8 @@ __NOTES__
 
 `git diff --staged` If you want to see only changes that have already been added to the Staging Area, "git diff --staged" is your command of choice.
 
+`git diff --color-words contact.html` 
+
 __SOURCE__
 
 <http://git-scm.com/docs/git-diff>
